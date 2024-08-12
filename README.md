@@ -5,10 +5,10 @@
 This project focuses on computing the signal probabilities in digital circuits and analyzing the likelihood of logic 0 or 1 across output nodes to ensure circuit reliability. The project implements Topological Sorting in C to determine the correct node operation sequence and optimizes circuit design to minimize failure risks.
 
 ### **Example of a digital circuit**
-![Circuit1](.Circuit1.jpg)
+![Circuit1](./Circuit1.jpg)
 
 ### **Representation as DAG**
-![DAG_Representation](.DAG_representation.jpg)
+![DAG_Representation](./DAG_representation.jpg)
 
 
 ## Features
